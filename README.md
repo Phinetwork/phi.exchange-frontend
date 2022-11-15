@@ -1,4 +1,4 @@
-# 🥞 PHI Exchange Frontent
+#  PHI Exchange Frontent
 
 This project contains the main features of the PHI Exchange application.
 
